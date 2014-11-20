@@ -1,0 +1,23 @@
+{
+  "name": "clipsum",
+  "version": "1.0.0",
+  "description": "lorem ipsum command line interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aclarkk/clipsum"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aclarkk/clipsum/issues"
+  },
+  "homepage": "https://github.com/aclarkk/clipsum",
+  "dependencies": {
+    "commander": "^2.5.0",
+    "copy-paste": "^1.0.1"
+  }
+}
