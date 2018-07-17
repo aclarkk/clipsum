@@ -22,3 +22,4 @@ else{
   clip.copy('Lorem ipsum dolor sit amet, elit purus eros id vitae sed blandit. Risus dui dui, vel vehicula erat sem, aliquam veniam leo. Suspendisse mauris dolor vestibulum enim feugiat, leo mauris consequat eu eget, adipiscing vestibulum et tellus, nec laoreet non metus eget.');
 }
 
+process.exit();

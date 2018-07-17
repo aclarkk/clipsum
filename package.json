@@ -1,6 +1,6 @@
 {
   "name": "clipsum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lorem ipsum command line interface",
   "main": "app.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "dependencies": {
     "commander": "^2.5.0",
     "copy-paste": "^1.0.1"
+  },
+  "bin": {
+    "clipsum": "./app.js"
   }
 }
