@@ -11,3 +11,9 @@ It currently supports a few options:
 ```
 
 Running the script with no options will give you vanilla Lorem Ipsum
+
+## Installation
+
+```bash
+npm install clipsum -g
+```
